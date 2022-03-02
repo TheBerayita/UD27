@@ -1,0 +1,26 @@
+table{
+    width: 100%;
+}
+
+table, th, td {
+    border:1px solid black;
+}
+
+.verde{
+    background-color: lightgreen;
+}
+
+.azul{
+    background-color: cyan;
+    text-align: left;
+}
+
+.rojo{
+    color: red;
+}
+
+.lila{
+    background-color: rgb(240, 98, 221);
+    vertical-align: bottom;
+    text-align: right;
+}

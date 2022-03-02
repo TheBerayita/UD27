@@ -1,0 +1,24 @@
+table{
+    border: 3px solid lightgoldenrodyellow;
+    border-collapse: collapse;
+    box-shadow: 2px 2px black , -2px -2px gray;
+    
+}
+th,td{
+    text-align: center;
+    border: 3px solid lightgoldenrodyellow;
+    border-collapse: collapse;
+    box-shadow: 1px 1px inset;
+}
+
+#header{
+    background-color:darkolivegreen;
+}
+
+#titulos{
+    background-color: lightsalmon;
+}
+
+#perros{
+    background-color: lightyellow;
+}

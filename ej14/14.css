@@ -1,0 +1,33 @@
+.pinguino{
+    margin-left: 25%;
+    width: 60%;
+    min-height: 600px;
+    background: url("https://dam.ngenespanol.com/wp-content/uploads/2020/05/pinguino-rey.jpg") no-repeat center center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+
+    display: flex;
+    align-items: center;
+}
+
+.tabla{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border:1px solid rgb(0, 0, 0);
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    background-color: yellow;
+}
+
+.blanco{
+    background-color: white;
+}
